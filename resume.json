@@ -1,0 +1,149 @@
+{
+    "basics": {
+        "name": "Johan Lindell",
+        "picture": "./static/me.jpg",
+        "email": "johan@lindell.me",
+        "website": "http://lindell.me",
+        "phone": "(+46) 073-988 03 28",
+        "label": "Developer",
+        "summary": "I'm a developer who has loved creating things digitally since the day I realized I could make my own website at a young age. Ever since then I've been into development. The first years, I did exclusively web development, but my interests and knowledge have expanded since then. Today, I've been doing development for over a decade and I'm still in love with it. I have a master in Computer Science and is currently working as an IT consultant at Netlight.",
+        "location": {
+            "city": "Stockholm",
+            "countryCode": "SE"
+        },
+        "profiles": [
+            {
+                "network": "Github",
+                "username": "lindell",
+                "url": "https://github.com/lindell"
+            },
+            {
+                "network": "LinkedIn",
+                "username": "Johan Lindell",
+                "url": "http://bit.ly/2fmpoA8"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "Netlight",
+            "position": "IT consultant",
+            "website": "https://www.netlight.com/",
+            "startDate": "2017-02-20",
+            "summary": "Netlight is an IT consultant firm located in multiple european countries. I'm currently working at the Stockholm office where I've been on several assignments listed below.",
+            "assignments": [
+                {
+                    "company": "Lendo",
+                    "position": "Backend developer",
+                    "website": "https://www.lendo.se/",
+                    "startDate": "2017-06-14",
+                    "summary": "This assignment involved assisting Lendo with their move from a PHP monolith to a microservice architecture. The first period involved both creating a new microservice and restructuring of Lendos template for Node.js services. Thereafter, the majority of the development was performed in Go with both the recreation of new microservices and refactoring of old."
+                },
+                {
+                    "company": "Improove",
+                    "position": "Web developer",
+                    "website": "http://www.improove.se/",
+                    "startDate": "2017-03-01",
+                    "endDate": "2017-06-29",
+                    "summary": "The assignment at Improove involved both front- and backend development. This included improvements of existing webshops, the implementation of a redesign (shop.picadeli.se), and the creation of a new one (savannahs.com). The backend of the webshops was powered by Magento and Demandware."
+                }
+            ]
+        },
+        {
+            "company": "Linköping University",
+            "position": "System administrator",
+            "website": "https://www.liu.se/?l=en",
+            "startDate": "2013-08-01",
+            "endDate": "2016-06-30",
+            "summary": "When working as a system administrator at Linköping University, I and one other student, was in charge of two computer labs with approximately 100 computers. The work involved configuration and maintenance of these computers. All computers were running Windows that was managed via an Active Directory server. We did also maintain a Linux server with web and email services."
+        },
+        {
+            "company": "OnServer360",
+            "position": "Developer",
+            "startDate": "2012-04-01",
+            "endDate": "2012-07-01",
+            "summary": "This job was over the summer of 2012 where I created a platform for tracking customers through webshops and other websites. The platform also made it possible for the user to specify rules that sent emails to the customers based on configurable criteria."
+        },
+        {
+            "company": "KomTek",
+            "position": "Teacher",
+            "website": "http://www.orebro.se/4645.html",
+            "startDate": "2010-01-01",
+            "endDate": "2010-06-01",
+            "summary": "I created and taught a programming course for children with another person at KomTek (municipal technical school). The course was organized so that the children received a basic understanding of programming while still having fun in the process. It was fun and instructive to see the children's expression of epiphany when they figured out new things. The same epiphany I experienced when I started programming."
+        }
+    ],
+    "opensource": [
+        {
+            "name": "JsBarcode",
+            "role": "Creator and main contributor",
+            "startDate": "2014-06-01",
+            "website": "https://github.com/lindell/JsBarcode",
+            "summary": "JsBarcode is a barcode generation library written in JavaScript. I'm the creator and main developer of the project. It is currently the most popular barcode generation library (all languages) on GitHub and is used by everything from Turkish bookshops to the Swedish postal service (PostNord). It has currently multi-million end users world wide each month."
+        }
+    ],
+    "education": [
+        {
+            "institution": "Linköping University",
+            "area": "Programming and Algorithms",
+            "studyType": "Master",
+            "startDate": "2014-08-15",
+            "endDate": "2016-12-31",
+            "courses": []
+        },
+        {
+            "institution": "Linköping University",
+            "area": "Computer Science",
+            "studyType": "Bachelor",
+            "startDate": "2011-08-15",
+            "endDate": "2014-06-15",
+            "courses": []
+        },
+        {
+            "institution": "Tullängsskolan",
+            "area": "Computer Science and Science",
+            "studyType": "High School",
+            "startDate": "2008-07-01",
+            "endDate": "2011-05-30",
+            "courses": []
+        }
+    ],
+    "skills": [
+        {
+            "name": "Web Development",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "Javascript",
+                "React",
+                "Angular",
+                "and more..."
+            ]
+        },
+        {
+            "name": "Programing languages",
+            "keywords": [
+                "Javascript (ECMAScript)",
+                "SQL",
+                "Python",
+                "GO",
+                "PHP",
+                "Java",
+                "C#",
+                "C/C++",
+                "LISP",
+                "and more..."
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Fluent"
+        },
+        {
+            "language": "Swedish",
+            "fluency": "Native speaker"
+        }
+    ]
+}

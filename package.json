@@ -1,0 +1,14 @@
+{
+  "name": "lindell-resume",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "node ./build.js"
+  },
+  "author": "Johan Lindell",
+  "license": "ISC",
+  "dependencies": {
+    "html-minifier": "^4.0.0",
+    "jsonresume-theme-paper-plus-plus": "^0.5.0"
+  }
+}
