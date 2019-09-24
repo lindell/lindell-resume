@@ -13,7 +13,7 @@
         },
         "profiles": [
             {
-                "network": "Github",
+                "network": "GitHub",
                 "username": "lindell",
                 "url": "https://github.com/lindell"
             },
